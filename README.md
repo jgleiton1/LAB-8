@@ -22,6 +22,12 @@ Realice el respectivo análisis de las andas y responda las peguntas correspondi
 
 3. REQUISITOS PREVIOS
 
+![image](https://user-images.githubusercontent.com/94153604/155058487-ce26111b-88c4-4cd7-a3a8-71240ccbca78.png)
+
+![image](https://user-images.githubusercontent.com/94153604/155058510-cac97f52-f00b-4fba-a8b6-7e0e831cbb83.png)
+
+![image](https://user-images.githubusercontent.com/94153604/155058537-bb55747c-082f-43ad-a4cb-a8c008788e3e.png)
+
 4. MATERIALES Y EQUIPOS REQUERIDOS
 
 ![image](https://user-images.githubusercontent.com/93958596/155046248-44ae3137-10e5-40ff-b2aa-b43b553e1d79.png)
@@ -60,6 +66,11 @@ Realice el respectivo análisis de las andas y responda las peguntas correspondi
 
 7. CONCLUSIONES
 
+La oonda senoidal, tiene diferentes componentes como es su forma la cual contiene su polaridad, frecuencia, periodo , el numero de ciclos y el tiempo de una onda cuando completa su ciclo , de igual manera se habla sobre el voltaje senusoidal, ademas de los valores que contiene tanto de voltaje como de corriente los cuales son: valor instantaneo, valor pico, valor pico a pico, valor promedio  y valor efectivo o RMS y por ultimo la medición de angulos, los cuales pueden ser en grados o radianes. 
+
+Los componentes que se uso en la practica es un generador de funciones, dos recistencias, un multimetro y un osciloscopios , con la herramienta del osciloscopio se puede observar las señales senoidales, su valor pico, valor pico a pico y el valor promedio, es de gran importani armar correctamente el circuito y saber conectar el osciloscopio para que los resultados que se observen sean correctos.
+
+En el analisis del circuito  la señal senoidal, que representa tanto la tensión o la corriente  la cual se puede expresar matemáticamente 
 8. BIBLIOGRAFÍA
 
 Floyd, T.(2007). /Principio de Circuitos Eléctricos/. Pearson, Prentice Hall
