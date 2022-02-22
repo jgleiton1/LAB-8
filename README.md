@@ -36,7 +36,7 @@ Realice el respectivo análisis de las andas y responda las peguntas correspondi
 
 7.5.4. Responda las siguientes preguntas:
 
-    ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? ____Abarca dos divisiones por cuadro____
+    ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? ____Abarca alrededor de dos cuadros y un poquito____
 
     ¿En qué valor está posicionada la perilla VOLTS/DIV? ____3 V____
 
@@ -46,7 +46,7 @@ Realice el respectivo análisis de las andas y responda las peguntas correspondi
 
 7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-    Amplitud de voltaje: 6.86 (V)
+    Amplitud de voltaje: 6.5 (V)
     Periodo: 0.4 m(s)
 
 7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
