@@ -46,7 +46,7 @@ Realice el respectivo análisis de las andas y responda las peguntas correspondi
 
 7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-    Amplitud de voltaje: 6.5 (V)
+    Amplitud de voltaje: 6.3 (V)
     Periodo: 0.4 m(s)
 
 7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
