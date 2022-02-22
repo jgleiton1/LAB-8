@@ -70,7 +70,8 @@ La oonda senoidal, tiene diferentes componentes como es su forma la cual contien
 
 Los componentes que se uso en la practica es un generador de funciones, dos recistencias, un multimetro y un osciloscopios , con la herramienta del osciloscopio se puede observar las señales senoidales, su valor pico, valor pico a pico y el valor promedio, es de gran importani armar correctamente el circuito y saber conectar el osciloscopio para que los resultados que se observen sean correctos.
 
-En el analisis del circuito  la señal senoidal, que representa tanto la tensión o la corriente  la cual se puede expresar matemáticamente 
+En el analisis del circuito  se puede conocer las diferentes caracteriaticas que posee las ondas senoidales, una de las caracteristicas es que son patrones  de ondas que matematicamente pueden ser desritas en función de seno y coseno , describen de manera perfecta eventos naturales y señales variables en el tiempo, además que son periodicas y por ello se caracteriza por tener diferents tipos de valores, de igual manera interviene la frecuencia y se puede determinar los ciclos. 
+
 8. BIBLIOGRAFÍA
 
 Floyd, T.(2007). /Principio de Circuitos Eléctricos/. Pearson, Prentice Hall
