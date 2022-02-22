@@ -64,6 +64,8 @@ Realice el respectivo análisis de las andas y responda las peguntas correspondi
     
 6. VIDEO
 
+https://www.youtube.com/watch?v=0VdhO7HLW5g
+
 7. CONCLUSIONES
 
 La oonda senoidal, tiene diferentes componentes como es su forma la cual contiene su polaridad, frecuencia, periodo , el numero de ciclos y el tiempo de una onda cuando completa su ciclo , de igual manera se habla sobre el voltaje senusoidal, ademas de los valores que contiene tanto de voltaje como de corriente los cuales son: valor instantaneo, valor pico, valor pico a pico, valor promedio  y valor efectivo o RMS y por ultimo la medición de angulos, los cuales pueden ser en grados o radianes. 
