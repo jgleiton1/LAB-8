@@ -1,42 +1,55 @@
 # LAB-8
 
-1. Objetivos 
+1. OBJETIVOS
 
-1.1. Objetivo Geneeral
+  1.1 Objetivo General
+  
+  1.2 OBjetivos específicos
+  
+2. MARCO TEÓRICO
 
-Identificar los materiales  que se van a utilizar para armar de maner carrecta el circuito, mediante el simulador DCACLAB , el cual permite trabajr con la herramienta màs importante que es el oscilador, para determinar experimentalmente las caracteristicas de las señales senoidales. 
+![image](https://user-images.githubusercontent.com/93958596/155046117-c3c56aca-f6d0-4f06-a805-153f0aacccc3.png)
 
-1.2. Objetivos Específicos 
+3. REQUISITOS PREVIOS
 
-Conocer el tema, mediante el resumen del tema principal que es onda senoidal, para tener claro los conceptos necesarios para el laboratorio. 
+4. MATERIALES Y EQUIPOS REQUERIDOS
 
-Identificar los componentes del circuito que se debe armar de manera correcta para que se pueda obtener los datos necesarios.
+![image](https://user-images.githubusercontent.com/93958596/155046248-44ae3137-10e5-40ff-b2aa-b43b553e1d79.png)
 
-Realizar el respectivo analisis de las andas y reponder las peguntas correspondientes según se vaya realizando la practica. 
+5. RESPUESTAS A INTERROGANTES Y CÁLCULO DE ERROR
 
-2. Marco Teórico 
+7.5.4. Responda las siguientes preguntas:
 
+    ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? ____Abarca dos divisiones por cuadro____
 
-3. Requisitos Previos 
+    ¿En qué valor está posicionada la perilla VOLTS/DIV? ____3 V____
 
-![image](https://user-images.githubusercontent.com/94153604/155046267-882d040b-ab81-4b27-9d0b-ec064d22a4f0.png)
+    ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? ____Abarca cuatro cuadros____
 
-![image](https://user-images.githubusercontent.com/94153604/155046281-014f17bc-1255-4ec5-aa38-2a89bd076fce.png)
+    ¿En qué valor está posicionada la perilla TIME/DIV? ____0.1 ms____
 
-![image](https://user-images.githubusercontent.com/94153604/155046288-d7a34310-9bb4-4283-b245-d450e45ca2a1.png)
+7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-4. Materiales y Equipos Requeridos 
+    Amplitud de voltaje: 6.86 (V)
+    Periodo: 0.4 m(s)
 
+7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-5. Respuestas a interrogantes y calculo de error
+    f: 2500 (Hz)
+    ω: 15707.96 (rad/s)
 
+7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
 
-6. Video 
+    ____4.719 V____
 
+7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. ¿Coinciden? ¿Por qué? 
 
-7. Conclusiones 
+    No coinciden. Porque el multímetro da el valor rms del voltaje medido mientras que el osciloscopio muestra un valor aproximado del voltaje, dependiendo del punto en el que se verifique, el valor pico es el máximo valor que puede tener el voltaje.
+    
+6. VIDEO
 
+7. CONCLUSIONES
 
-8. Bibliografía
+8. BIBLIOGRAFÍA
 
-Floyd, T. (2007). Principio de Circuitos Eléctricos. Pearson, Prentice Hall
+Floyd, T.(2007). /Principio de Circuitos Eléctricos/. Pearson, Prentice Hall
